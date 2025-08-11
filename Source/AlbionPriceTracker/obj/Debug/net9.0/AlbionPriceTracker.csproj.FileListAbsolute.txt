@@ -1,0 +1,14 @@
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\bin\Debug\net9.0\AlbionPriceTracker.exe
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\bin\Debug\net9.0\AlbionPriceTracker.deps.json
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\bin\Debug\net9.0\AlbionPriceTracker.runtimeconfig.json
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\bin\Debug\net9.0\AlbionPriceTracker.dll
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\bin\Debug\net9.0\AlbionPriceTracker.pdb
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\obj\Debug\net9.0\AlbionPriceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\obj\Debug\net9.0\AlbionPriceTracker.AssemblyInfoInputs.cache
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\obj\Debug\net9.0\AlbionPriceTracker.AssemblyInfo.cs
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\obj\Debug\net9.0\AlbionPriceTracker.csproj.CoreCompileInputs.cache
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\obj\Debug\net9.0\AlbionPriceTracker.dll
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\obj\Debug\net9.0\refint\AlbionPriceTracker.dll
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\obj\Debug\net9.0\AlbionPriceTracker.pdb
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\obj\Debug\net9.0\AlbionPriceTracker.genruntimeconfig.cache
+C:\Users\hcalv\source\repos\AlbionPriceTracker\AlbionPriceTracker\obj\Debug\net9.0\ref\AlbionPriceTracker.dll
